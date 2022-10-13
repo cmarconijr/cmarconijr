@@ -9,8 +9,8 @@ My name is Cláudio Marconi and i'm starting my career and studies on the world 
 
 <div align="center">
   <a href="https://github.com/cmarconijr">
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=cmarconijr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmarconijr&layout=compact&langs_count=7&theme=dark"/>
+  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=cmarconijr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmarconijr&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
